@@ -1,1 +1,1 @@
-![Laurel Kelly Profile Photo](https://i.imgur.com/mT4tycIt.jpg)
+![Laurel Kelly Profile Photo](https://i.imgur.com/VQROyfll.jpg)
