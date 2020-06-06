@@ -1,6 +1,3 @@
-Skills:  
-**HTML, CSS, Javascript**
-•	*Excellent interpersonal and written communication skills*	
-•	**Ability to multi-task and prioritize projects**
-•	*Experienced with social media and basic graphic design*
-•	**Outgoing personality with a sense of humor**
+**Skills:**  
+
+**HTML, CSS, Javascript,** _Excellent interpersonal and written communication skills,_ **Ability to multi-task and prioritize projects,** _Experienced with social media and basic graphic design,_ **Outgoing personality with a sense of humor**
