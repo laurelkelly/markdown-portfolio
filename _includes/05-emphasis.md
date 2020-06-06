@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Skills:  
+**HTML, CSS, Javascript**
+•	*Excellent interpersonal and written communication skills*	
+•	**Ability to multi-task and prioritize projects**
+•	*Experienced with social media and basic graphic design*
+•	**Outgoing personality with a sense of humor**
