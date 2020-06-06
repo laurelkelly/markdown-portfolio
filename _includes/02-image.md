@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Laurel Kelly Profile Photo](https://i.imgur.com/mT4tycIt.jpg)
