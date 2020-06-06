@@ -1,5 +1,6 @@
-These are a few of my favorite things:
+Favorite things:
 * Coding
 * Playing guitar
+* Learning languages
 * Hiking
 * Strudel
